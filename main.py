@@ -18,7 +18,6 @@ def get_country_by_name(name):
     match = [country for country in countries if country[3] == name]
     return match and match[0] or None
 
-# wrapper for get_country functions
 def get_country():
     user_input = input("Country?\n")
     if user_input.isdigit():
