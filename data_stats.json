@@ -1,0 +1,2568 @@
+[
+  {
+    "m49": 1,
+    "name": "Total, all countries or areas",
+    "pop": 7632.82,
+    "pop_male": 3850.72,
+    "pop_female": 3782.1,
+    "pop_14": 25.8,
+    "pop_60": 13.0,
+    "area": 136162.0
+  },
+  {
+    "m49": 2,
+    "name": "Africa",
+    "pop": 1287.92,
+    "pop_male": 643.3,
+    "pop_female": 644.62,
+    "pop_14": 40.6,
+    "pop_60": 5.5,
+    "area": 30311.0
+  },
+  {
+    "m49": 15,
+    "name": "Northern Africa",
+    "pop": 237.78,
+    "pop_male": 119.46,
+    "pop_female": 118.32,
+    "pop_14": 32.3,
+    "pop_60": 8.5,
+    "area": 7880.0
+  },
+  {
+    "m49": 202,
+    "name": "Sub-Saharan Africa",
+    "pop": 1050.14,
+    "pop_male": 523.84,
+    "pop_female": 526.3,
+    "pop_14": 42.5,
+    "pop_60": 4.8,
+    "area": 22431.0
+  },
+  {
+    "m49": 14,
+    "name": "Eastern Africa",
+    "pop": 433.64,
+    "pop_male": 215.2,
+    "pop_female": 218.44,
+    "pop_14": 42.4,
+    "pop_60": 4.7,
+    "area": 7005.0
+  },
+  {
+    "m49": 17,
+    "name": "Middle Africa",
+    "pop": 168.54,
+    "pop_male": 83.99,
+    "pop_female": 84.55,
+    "pop_14": 45.3,
+    "pop_60": 4.6,
+    "area": 6613.0
+  },
+  {
+    "m49": 18,
+    "name": "Southern Africa",
+    "pop": 65.97,
+    "pop_male": 32.35,
+    "pop_female": 33.63,
+    "pop_14": 29.6,
+    "pop_60": 8.2,
+    "area": 2675.0
+  },
+  {
+    "m49": 11,
+    "name": "Western Africa",
+    "pop": 381.98,
+    "pop_male": 192.31,
+    "pop_female": 189.67,
+    "pop_14": 43.6,
+    "pop_60": 4.6,
+    "area": 6138.0
+  },
+  {
+    "m49": 19,
+    "name": "Americas",
+    "pop": 1015.86,
+    "pop_male": 502.39,
+    "pop_female": 513.47,
+    "pop_14": 22.4,
+    "pop_60": 15.7,
+    "area": 42322.0
+  },
+  {
+    "m49": 21,
+    "name": "Northern America",
+    "pop": 363.84,
+    "pop_male": 180.17,
+    "pop_female": 183.67,
+    "pop_14": 18.6,
+    "pop_60": 22.2,
+    "area": 21776.0
+  },
+  {
+    "m49": 419,
+    "name": "Latin America & the Caribbean",
+    "pop": 652.01,
+    "pop_male": 322.21,
+    "pop_female": 329.8,
+    "pop_14": 24.5,
+    "pop_60": 12.1,
+    "area": 20546.0
+  },
+  {
+    "m49": 29,
+    "name": "Caribbean",
+    "pop": 44.16,
+    "pop_male": 21.84,
+    "pop_female": 22.31,
+    "pop_14": 24.3,
+    "pop_60": 14.1,
+    "area": 234.0
+  },
+  {
+    "m49": 13,
+    "name": "Central America",
+    "pop": 179.62,
+    "pop_male": 89.15,
+    "pop_female": 90.46,
+    "pop_14": 27.3,
+    "pop_60": 10.0,
+    "area": 2480.0
+  },
+  {
+    "m49": 5,
+    "name": "South America",
+    "pop": 428.24,
+    "pop_male": 211.22,
+    "pop_female": 217.02,
+    "pop_14": 23.4,
+    "pop_60": 12.8,
+    "area": 17832.0
+  },
+  {
+    "m49": 142,
+    "name": "Asia",
+    "pop": 4545.13,
+    "pop_male": 2325.45,
+    "pop_female": 2219.69,
+    "pop_14": 24.0,
+    "pop_60": 12.5,
+    "area": 31915.0
+  },
+  {
+    "m49": 143,
+    "name": "Central Asia",
+    "pop": 71.86,
+    "pop_male": 35.54,
+    "pop_female": 36.32,
+    "pop_14": 29.6,
+    "pop_60": 8.5,
+    "area": 4103.0
+  },
+  {
+    "m49": 30,
+    "name": "Eastern Asia",
+    "pop": 1653.88,
+    "pop_male": 846.48,
+    "pop_female": 807.4,
+    "pop_14": 17.1,
+    "pop_60": 18.1,
+    "area": 11799.0
+  },
+  {
+    "m49": 62,
+    "name": "South-central Asia",
+    "pop": 1963.31,
+    "pop_male": 1009.2,
+    "pop_female": 954.11,
+    "pop_14": 28.4,
+    "pop_60": 9.0,
+    "area": 10791.0
+  },
+  {
+    "m49": 35,
+    "name": "South-eastern Asia",
+    "pop": 655.64,
+    "pop_male": 327.31,
+    "pop_female": 328.32,
+    "pop_14": 26.0,
+    "pop_60": 10.2,
+    "area": 4495.0
+  },
+  {
+    "m49": 34,
+    "name": "Southern Asia",
+    "pop": 1891.45,
+    "pop_male": 973.66,
+    "pop_female": 917.8,
+    "pop_14": 28.3,
+    "pop_60": 9.1,
+    "area": 6688.0
+  },
+  {
+    "m49": 145,
+    "name": "Western Asia",
+    "pop": 272.3,
+    "pop_male": 142.45,
+    "pop_female": 129.85,
+    "pop_14": 29.1,
+    "pop_60": 8.4,
+    "area": 4831.0
+  },
+  {
+    "m49": 150,
+    "name": "Europe",
+    "pop": 742.65,
+    "pop_male": 358.94,
+    "pop_female": 383.7,
+    "pop_14": 15.9,
+    "pop_60": 25.0,
+    "area": 23049.0
+  },
+  {
+    "m49": 151,
+    "name": "Eastern Europe",
+    "pop": 291.95,
+    "pop_male": 137.38,
+    "pop_female": 154.57,
+    "pop_14": 16.6,
+    "pop_60": 22.9,
+    "area": 18814.0
+  },
+  {
+    "m49": 154,
+    "name": "Northern Europe",
+    "pop": 104.76,
+    "pop_male": 51.69,
+    "pop_female": 53.07,
+    "pop_14": 17.7,
+    "pop_60": 24.4,
+    "area": 1810.0
+  },
+  {
+    "m49": 39,
+    "name": "Southern Europe",
+    "pop": 151.86,
+    "pop_male": 74.19,
+    "pop_female": 77.67,
+    "pop_14": 14.2,
+    "pop_60": 27.3,
+    "area": 1317.0
+  },
+  {
+    "m49": 155,
+    "name": "Western Europe",
+    "pop": 194.07,
+    "pop_male": 95.68,
+    "pop_female": 98.39,
+    "pop_14": 15.4,
+    "pop_60": 26.8,
+    "area": 1108.0
+  },
+  {
+    "m49": 9,
+    "name": "Oceania",
+    "pop": 41.26,
+    "pop_male": 20.64,
+    "pop_female": 20.62,
+    "pop_14": 23.5,
+    "pop_60": 17.2,
+    "area": 8564.0
+  },
+  {
+    "m49": 53,
+    "name": "Australia and New Zealand",
+    "pop": 29.52,
+    "pop_male": 14.68,
+    "pop_female": 14.85,
+    "pop_14": 19.2,
+    "pop_60": 21.2,
+    "area": 8012.0
+  },
+  {
+    "m49": 54,
+    "name": "Melanesia",
+    "pop": 10.52,
+    "pop_male": 5.35,
+    "pop_female": 5.17,
+    "pop_14": 34.8,
+    "pop_60": 6.8,
+    "area": 541.0
+  },
+  {
+    "m49": 57,
+    "name": "Micronesia",
+    "pop": 0.53,
+    "pop_male": 0.27,
+    "pop_female": 0.26,
+    "pop_14": 28.8,
+    "pop_60": 10.8,
+    "area": 3.0
+  },
+  {
+    "m49": 61,
+    "name": "Polynesia",
+    "pop": 0.69,
+    "pop_male": 0.35,
+    "pop_female": 0.34,
+    "pop_14": 29.5,
+    "pop_60": 10.6,
+    "area": 8.0
+  },
+  {
+    "m49": 4,
+    "name": "Afghanistan",
+    "pop": 36.37,
+    "pop_male": 18.74,
+    "pop_female": 17.64,
+    "pop_14": 42.6,
+    "pop_60": 4.2,
+    "area": 653.0
+  },
+  {
+    "m49": 8,
+    "name": "Albania",
+    "pop": 2.93,
+    "pop_male": 1.48,
+    "pop_female": 1.45,
+    "pop_14": 17.1,
+    "pop_60": 19.7,
+    "area": 29.0
+  },
+  {
+    "m49": 12,
+    "name": "Algeria",
+    "pop": 42.01,
+    "pop_male": 21.22,
+    "pop_female": 20.79,
+    "pop_14": 29.5,
+    "pop_60": 9.6,
+    "area": 2382.0
+  },
+  {
+    "m49": 16,
+    "name": "American Samoa",
+    "pop": 0.06,
+    "pop_14": 33.3,
+    "pop_60": 9.0,
+    "area": 0.0
+  },
+  {
+    "m49": 20,
+    "name": "Andorra",
+    "pop": 0.08,
+    "pop_14": 14.4,
+    "pop_60": 19.0,
+    "area": 0.0
+  },
+  {
+    "m49": 24,
+    "name": "Angola",
+    "pop": 30.77,
+    "pop_male": 15.09,
+    "pop_female": 15.68,
+    "pop_14": 46.6,
+    "pop_60": 4.1,
+    "area": 1247.0
+  },
+  {
+    "m49": 660,
+    "name": "Anguilla",
+    "pop": 0.02,
+    "pop_14": 23.3,
+    "pop_60": 7.6,
+    "area": 0.0
+  },
+  {
+    "m49": 28,
+    "name": "Antigua and Barbuda",
+    "pop": 0.1,
+    "pop_male": 0.05,
+    "pop_female": 0.05,
+    "pop_14": 23.6,
+    "pop_60": 11.3,
+    "area": 0.0
+  },
+  {
+    "m49": 32,
+    "name": "Argentina",
+    "pop": 44.69,
+    "pop_male": 21.88,
+    "pop_female": 22.81,
+    "pop_14": 24.7,
+    "pop_60": 15.6,
+    "area": 2780.0
+  },
+  {
+    "m49": 51,
+    "name": "Armenia",
+    "pop": 2.93,
+    "pop_male": 1.38,
+    "pop_female": 1.55,
+    "pop_14": 20.1,
+    "pop_60": 17.5,
+    "area": 30.0
+  },
+  {
+    "m49": 533,
+    "name": "Aruba",
+    "pop": 0.11,
+    "pop_male": 0.05,
+    "pop_female": 0.06,
+    "pop_14": 17.7,
+    "pop_60": 20.4,
+    "area": 0.0
+  },
+  {
+    "m49": 36,
+    "name": "Australia",
+    "pop": 24.77,
+    "pop_male": 12.34,
+    "pop_female": 12.43,
+    "pop_14": 19.1,
+    "pop_60": 21.2,
+    "area": 7692.0
+  },
+  {
+    "m49": 40,
+    "name": "Austria",
+    "pop": 8.75,
+    "pop_male": 4.29,
+    "pop_female": 4.46,
+    "pop_14": 14.1,
+    "pop_60": 25.5,
+    "area": 84.0
+  },
+  {
+    "m49": 31,
+    "name": "Azerbaijan",
+    "pop": 9.92,
+    "pop_male": 4.94,
+    "pop_female": 4.98,
+    "pop_14": 23.3,
+    "pop_60": 10.6,
+    "area": 87.0
+  },
+  {
+    "m49": 44,
+    "name": "Bahamas",
+    "pop": 0.4,
+    "pop_male": 0.2,
+    "pop_female": 0.2,
+    "pop_14": 20.5,
+    "pop_60": 14.0,
+    "area": 14.0
+  },
+  {
+    "m49": 48,
+    "name": "Bahrain",
+    "pop": 1.57,
+    "pop_male": 0.99,
+    "pop_female": 0.57,
+    "pop_14": 19.2,
+    "pop_60": 4.9,
+    "area": 1.0
+  },
+  {
+    "m49": 50,
+    "name": "Bangladesh",
+    "pop": 166.37,
+    "pop_male": 83.86,
+    "pop_female": 82.51,
+    "pop_14": 27.8,
+    "pop_60": 7.5,
+    "area": 148.0
+  },
+  {
+    "m49": 52,
+    "name": "Barbados",
+    "pop": 0.29,
+    "pop_male": 0.14,
+    "pop_female": 0.15,
+    "pop_14": 18.9,
+    "pop_60": 21.6,
+    "area": 0.0
+  },
+  {
+    "m49": 112,
+    "name": "Belarus",
+    "pop": 9.45,
+    "pop_male": 4.4,
+    "pop_female": 5.05,
+    "pop_14": 17.0,
+    "pop_60": 21.8,
+    "area": 208.0
+  },
+  {
+    "m49": 56,
+    "name": "Belgium",
+    "pop": 11.5,
+    "pop_male": 5.68,
+    "pop_female": 5.82,
+    "pop_14": 17.2,
+    "pop_60": 24.9,
+    "area": 31.0
+  },
+  {
+    "m49": 84,
+    "name": "Belize",
+    "pop": 0.38,
+    "pop_male": 0.19,
+    "pop_female": 0.19,
+    "pop_14": 30.9,
+    "pop_60": 6.3,
+    "area": 23.0
+  },
+  {
+    "m49": 204,
+    "name": "Benin",
+    "pop": 11.49,
+    "pop_male": 5.73,
+    "pop_female": 5.75,
+    "pop_14": 42.4,
+    "pop_60": 5.0,
+    "area": 115.0
+  },
+  {
+    "m49": 60,
+    "name": "Bermuda",
+    "pop": 0.06,
+    "pop_14": 14.8,
+    "pop_60": 24.9,
+    "area": 0.0
+  },
+  {
+    "m49": 64,
+    "name": "Bhutan",
+    "pop": 0.82,
+    "pop_male": 0.43,
+    "pop_female": 0.38,
+    "pop_14": 26.2,
+    "pop_60": 7.5,
+    "area": 38.0
+  },
+  {
+    "m49": 68,
+    "name": "Bolivia (Plurin. State of)",
+    "pop": 11.22,
+    "pop_male": 5.61,
+    "pop_female": 5.6,
+    "pop_14": 31.3,
+    "pop_60": 9.6,
+    "area": 1099.0
+  },
+  {
+    "m49": 535,
+    "name": "Bonaire, St. Eustatius & Saba",
+    "pop": 0.03
+  },
+  {
+    "m49": 70,
+    "name": "Bosnia and Herzegovina",
+    "pop": 3.5,
+    "pop_male": 1.72,
+    "pop_female": 1.78,
+    "pop_14": 14.2,
+    "pop_60": 23.9,
+    "area": 51.0
+  },
+  {
+    "m49": 72,
+    "name": "Botswana",
+    "pop": 2.33,
+    "pop_male": 1.15,
+    "pop_female": 1.18,
+    "pop_14": 31.2,
+    "pop_60": 6.5,
+    "area": 582.0
+  },
+  {
+    "m49": 76,
+    "name": "Brazil",
+    "pop": 210.87,
+    "pop_male": 103.6,
+    "pop_female": 107.27,
+    "pop_14": 21.4,
+    "pop_60": 13.1,
+    "area": 8516.0
+  },
+  {
+    "m49": 92,
+    "name": "British Virgin Islands",
+    "pop": 0.03,
+    "pop_14": 22.3,
+    "pop_60": 9.7,
+    "area": 0.0
+  },
+  {
+    "m49": 96,
+    "name": "Brunei Darussalam",
+    "pop": 0.43,
+    "pop_male": 0.22,
+    "pop_female": 0.21,
+    "pop_14": 22.6,
+    "pop_60": 8.5,
+    "area": 6.0
+  },
+  {
+    "m49": 100,
+    "name": "Bulgaria",
+    "pop": 7.04,
+    "pop_male": 3.42,
+    "pop_female": 3.62,
+    "pop_14": 14.4,
+    "pop_60": 27.9,
+    "area": 111.0
+  },
+  {
+    "m49": 854,
+    "name": "Burkina Faso",
+    "pop": 19.75,
+    "pop_male": 9.86,
+    "pop_female": 9.89,
+    "pop_14": 44.9,
+    "pop_60": 3.9,
+    "area": 273.0
+  },
+  {
+    "m49": 108,
+    "name": "Burundi",
+    "pop": 11.22,
+    "pop_male": 5.52,
+    "pop_female": 5.69,
+    "pop_14": 45.1,
+    "pop_60": 4.4,
+    "area": 28.0
+  },
+  {
+    "m49": 132,
+    "name": "Cabo Verde",
+    "pop": 0.55,
+    "pop_male": 0.28,
+    "pop_female": 0.28,
+    "pop_14": 29.8,
+    "pop_60": 7.0,
+    "area": 4.0
+  },
+  {
+    "m49": 116,
+    "name": "Cambodia",
+    "pop": 16.25,
+    "pop_male": 7.93,
+    "pop_female": 8.32,
+    "pop_14": 31.2,
+    "pop_60": 7.2,
+    "area": 181.0
+  },
+  {
+    "m49": 120,
+    "name": "Cameroon",
+    "pop": 24.68,
+    "pop_male": 12.35,
+    "pop_female": 12.33,
+    "pop_14": 42.5,
+    "pop_60": 4.8,
+    "area": 476.0
+  },
+  {
+    "m49": 124,
+    "name": "Canada",
+    "pop": 36.95,
+    "pop_male": 18.34,
+    "pop_female": 18.61,
+    "pop_14": 16.1,
+    "pop_60": 24.0,
+    "area": 9985.0
+  },
+  {
+    "m49": 136,
+    "name": "Cayman Islands",
+    "pop": 0.06,
+    "pop_14": 18.3,
+    "pop_60": 6.7,
+    "area": 0.0
+  },
+  {
+    "m49": 140,
+    "name": "Central African Republic",
+    "pop": 4.74,
+    "pop_male": 2.34,
+    "pop_female": 2.4,
+    "pop_14": 42.8,
+    "pop_60": 5.5,
+    "area": 623.0
+  },
+  {
+    "m49": 148,
+    "name": "Chad",
+    "pop": 15.35,
+    "pop_male": 7.69,
+    "pop_female": 7.67,
+    "pop_14": 46.9,
+    "pop_60": 4.0,
+    "area": 1284.0
+  },
+  {
+    "m49": 830,
+    "name": "Channel Islands",
+    "pop": 0.17,
+    "pop_male": 0.08,
+    "pop_female": 0.08,
+    "pop_14": 14.5,
+    "pop_60": 25.0,
+    "area": 0.0
+  },
+  {
+    "m49": 152,
+    "name": "Chile",
+    "pop": 18.2,
+    "pop_male": 9.02,
+    "pop_female": 9.18,
+    "pop_14": 20.1,
+    "pop_60": 16.5,
+    "area": 756.0
+  },
+  {
+    "m49": 156,
+    "name": "China",
+    "pop": 1415.05,
+    "pop_male": 729.2,
+    "pop_female": 685.85,
+    "pop_14": 17.6,
+    "pop_60": 16.6,
+    "area": 9600.0
+  },
+  {
+    "m49": 344,
+    "name": "China, Hong Kong SAR",
+    "pop": 7.43,
+    "pop_male": 3.41,
+    "pop_female": 4.02,
+    "pop_14": 11.9,
+    "pop_60": 24.3,
+    "area": 1.0
+  },
+  {
+    "m49": 446,
+    "name": "China, Macao SAR",
+    "pop": 0.63,
+    "pop_male": 0.3,
+    "pop_female": 0.33,
+    "pop_14": 13.8,
+    "pop_60": 17.0,
+    "area": 0.0
+  },
+  {
+    "m49": 170,
+    "name": "Colombia",
+    "pop": 49.46,
+    "pop_male": 24.33,
+    "pop_female": 25.14,
+    "pop_14": 23.1,
+    "pop_60": 12.1,
+    "area": 1142.0
+  },
+  {
+    "m49": 174,
+    "name": "Comoros",
+    "pop": 0.83,
+    "pop_male": 0.42,
+    "pop_female": 0.41,
+    "pop_14": 39.5,
+    "pop_60": 5.0,
+    "area": 2.0
+  },
+  {
+    "m49": 178,
+    "name": "Congo",
+    "pop": 5.4,
+    "pop_male": 2.7,
+    "pop_female": 2.7,
+    "pop_14": 42.1,
+    "pop_60": 5.2,
+    "area": 342.0
+  },
+  {
+    "m49": 184,
+    "name": "Cook Islands",
+    "pop": 0.02,
+    "pop_14": 26.9,
+    "pop_60": 14.2,
+    "area": 0.0
+  },
+  {
+    "m49": 188,
+    "name": "Costa Rica",
+    "pop": 4.95,
+    "pop_male": 2.48,
+    "pop_female": 2.48,
+    "pop_14": 21.4,
+    "pop_60": 14.1,
+    "area": 51.0
+  },
+  {
+    "m49": 384,
+    "name": "C\u00f4te d\u0092Ivoire",
+    "pop": 24.91,
+    "pop_male": 12.61,
+    "pop_female": 12.3,
+    "pop_14": 42.3,
+    "pop_60": 4.8,
+    "area": 322.0
+  },
+  {
+    "m49": 191,
+    "name": "Croatia",
+    "pop": 4.16,
+    "pop_male": 2.01,
+    "pop_female": 2.16,
+    "pop_14": 14.7,
+    "pop_60": 27.2,
+    "area": 57.0
+  },
+  {
+    "m49": 192,
+    "name": "Cuba",
+    "pop": 11.49,
+    "pop_male": 5.75,
+    "pop_female": 5.74,
+    "pop_14": 15.9,
+    "pop_60": 20.5,
+    "area": 110.0
+  },
+  {
+    "m49": 531,
+    "name": "Cura\u00e7ao",
+    "pop": 0.16,
+    "pop_male": 0.07,
+    "pop_female": 0.09,
+    "pop_14": 18.5,
+    "pop_60": 23.4,
+    "area": 0.0
+  },
+  {
+    "m49": 196,
+    "name": "Cyprus",
+    "pop": 1.19,
+    "pop_male": 0.59,
+    "pop_female": 0.59,
+    "pop_14": 16.8,
+    "pop_60": 18.9,
+    "area": 9.0
+  },
+  {
+    "m49": 203,
+    "name": "Czechia",
+    "pop": 10.63,
+    "pop_male": 5.22,
+    "pop_female": 5.4,
+    "pop_14": 15.5,
+    "pop_60": 25.8,
+    "area": 79.0
+  },
+  {
+    "m49": 408,
+    "name": "Dem. People's Rep. Korea",
+    "pop": 25.61,
+    "pop_male": 12.53,
+    "pop_female": 13.08,
+    "pop_14": 20.4,
+    "pop_60": 14.1,
+    "area": 121.0
+  },
+  {
+    "m49": 180,
+    "name": "Dem. Rep. of the Congo",
+    "pop": 84.01,
+    "pop_male": 41.92,
+    "pop_female": 42.08,
+    "pop_14": 46.2,
+    "pop_60": 4.7,
+    "area": 2345.0
+  },
+  {
+    "m49": 208,
+    "name": "Denmark",
+    "pop": 5.75,
+    "pop_male": 2.86,
+    "pop_female": 2.89,
+    "pop_14": 16.4,
+    "pop_60": 25.6,
+    "area": 43.0
+  },
+  {
+    "m49": 262,
+    "name": "Djibouti",
+    "pop": 0.97,
+    "pop_male": 0.49,
+    "pop_female": 0.48,
+    "pop_14": 30.6,
+    "pop_60": 6.6,
+    "area": 23.0
+  },
+  {
+    "m49": 212,
+    "name": "Dominica",
+    "pop": 0.07,
+    "pop_14": 29.5,
+    "pop_60": 13.3,
+    "area": 1.0
+  },
+  {
+    "m49": 214,
+    "name": "Dominican Republic",
+    "pop": 10.88,
+    "pop_male": 5.42,
+    "pop_female": 5.47,
+    "pop_14": 29.0,
+    "pop_60": 10.5,
+    "area": 49.0
+  },
+  {
+    "m49": 218,
+    "name": "Ecuador",
+    "pop": 16.86,
+    "pop_male": 8.43,
+    "pop_female": 8.44,
+    "pop_14": 28.2,
+    "pop_60": 10.7,
+    "area": 257.0
+  },
+  {
+    "m49": 818,
+    "name": "Egypt",
+    "pop": 99.38,
+    "pop_male": 50.25,
+    "pop_female": 49.13,
+    "pop_14": 33.3,
+    "pop_60": 8.0,
+    "area": 1002.0
+  },
+  {
+    "m49": 222,
+    "name": "El Salvador",
+    "pop": 6.41,
+    "pop_male": 3.01,
+    "pop_female": 3.4,
+    "pop_14": 27.1,
+    "pop_60": 11.8,
+    "area": 21.0
+  },
+  {
+    "m49": 226,
+    "name": "Equatorial Guinea",
+    "pop": 1.31,
+    "pop_male": 0.73,
+    "pop_female": 0.59,
+    "pop_14": 37.0,
+    "pop_60": 4.4,
+    "area": 28.0
+  },
+  {
+    "m49": 232,
+    "name": "Eritrea",
+    "pop": 5.19,
+    "pop_male": 2.6,
+    "pop_female": 2.59,
+    "pop_14": 41.5,
+    "pop_60": 5.3,
+    "area": 118.0
+  },
+  {
+    "m49": 233,
+    "name": "Estonia",
+    "pop": 1.31,
+    "pop_male": 0.61,
+    "pop_female": 0.69,
+    "pop_14": 16.6,
+    "pop_60": 26.2,
+    "area": 45.0
+  },
+  {
+    "m49": 231,
+    "name": "Ethiopia",
+    "pop": 107.53,
+    "pop_male": 53.7,
+    "pop_female": 53.84,
+    "pop_14": 40.0,
+    "pop_60": 5.3,
+    "area": 1104.0
+  },
+  {
+    "m49": 238,
+    "name": "Falkland Islands (Malvinas)",
+    "pop": 0.0,
+    "pop_14": 16.4,
+    "pop_60": 15.7,
+    "area": 12.0
+  },
+  {
+    "m49": 234,
+    "name": "Faroe Islands",
+    "pop": 0.05,
+    "pop_14": 21.0,
+    "pop_60": 22.5,
+    "area": 1.0
+  },
+  {
+    "m49": 242,
+    "name": "Fiji",
+    "pop": 0.91,
+    "pop_male": 0.46,
+    "pop_female": 0.45,
+    "pop_14": 28.3,
+    "pop_60": 10.3,
+    "area": 18.0
+  },
+  {
+    "m49": 246,
+    "name": "Finland",
+    "pop": 5.54,
+    "pop_male": 2.73,
+    "pop_female": 2.81,
+    "pop_14": 16.5,
+    "pop_60": 28.1,
+    "area": 338.0
+  },
+  {
+    "m49": 250,
+    "name": "France",
+    "pop": 65.23,
+    "pop_male": 32.08,
+    "pop_female": 33.15,
+    "pop_14": 18.0,
+    "pop_60": 26.1,
+    "area": 552.0
+  },
+  {
+    "m49": 254,
+    "name": "French Guiana",
+    "pop": 0.29,
+    "pop_male": 0.14,
+    "pop_female": 0.14,
+    "pop_14": 32.8,
+    "pop_60": 8.7,
+    "area": 84.0
+  },
+  {
+    "m49": 258,
+    "name": "French Polynesia",
+    "pop": 0.29,
+    "pop_male": 0.15,
+    "pop_female": 0.14,
+    "pop_14": 22.9,
+    "pop_60": 12.4,
+    "area": 4.0
+  },
+  {
+    "m49": 266,
+    "name": "Gabon",
+    "pop": 2.07,
+    "pop_male": 1.06,
+    "pop_female": 1.01,
+    "pop_14": 35.9,
+    "pop_60": 6.3,
+    "area": 268.0
+  },
+  {
+    "m49": 270,
+    "name": "Gambia",
+    "pop": 2.16,
+    "pop_male": 1.07,
+    "pop_female": 1.09,
+    "pop_14": 45.1,
+    "pop_60": 3.8,
+    "area": 11.0
+  },
+  {
+    "m49": 268,
+    "name": "Georgia",
+    "pop": 3.91,
+    "pop_male": 1.87,
+    "pop_female": 2.04,
+    "pop_14": 19.4,
+    "pop_60": 21.1,
+    "area": 70.0
+  },
+  {
+    "m49": 276,
+    "name": "Germany",
+    "pop": 82.29,
+    "pop_male": 40.55,
+    "pop_female": 41.75,
+    "pop_14": 13.1,
+    "pop_60": 28.4,
+    "area": 357.0
+  },
+  {
+    "m49": 288,
+    "name": "Ghana",
+    "pop": 29.46,
+    "pop_male": 14.69,
+    "pop_female": 14.78,
+    "pop_14": 38.3,
+    "pop_60": 5.4,
+    "area": 239.0
+  },
+  {
+    "m49": 292,
+    "name": "Gibraltar",
+    "pop": 0.03,
+    "pop_14": 18.1,
+    "pop_60": 22.4,
+    "area": 0.0
+  },
+  {
+    "m49": 300,
+    "name": "Greece",
+    "pop": 11.14,
+    "pop_male": 5.48,
+    "pop_female": 5.66,
+    "pop_14": 14.1,
+    "pop_60": 26.9,
+    "area": 132.0
+  },
+  {
+    "m49": 304,
+    "name": "Greenland",
+    "pop": 0.06,
+    "pop_14": 21.0,
+    "pop_60": 13.2,
+    "area": 2166.0
+  },
+  {
+    "m49": 308,
+    "name": "Grenada",
+    "pop": 0.11,
+    "pop_male": 0.05,
+    "pop_female": 0.05,
+    "pop_14": 26.3,
+    "pop_60": 10.7,
+    "area": 0.0
+  },
+  {
+    "m49": 312,
+    "name": "Guadeloupe",
+    "pop": 0.45,
+    "pop_male": 0.21,
+    "pop_female": 0.24,
+    "pop_14": 18.2,
+    "pop_60": 24.3,
+    "area": 2.0
+  },
+  {
+    "m49": 316,
+    "name": "Guam",
+    "pop": 0.17,
+    "pop_male": 0.08,
+    "pop_female": 0.08,
+    "pop_14": 24.4,
+    "pop_60": 14.4,
+    "area": 1.0
+  },
+  {
+    "m49": 320,
+    "name": "Guatemala",
+    "pop": 17.25,
+    "pop_male": 8.49,
+    "pop_female": 8.76,
+    "pop_14": 34.4,
+    "pop_60": 7.0,
+    "area": 109.0
+  },
+  {
+    "m49": 324,
+    "name": "Guinea",
+    "pop": 13.05,
+    "pop_male": 6.55,
+    "pop_female": 6.51,
+    "pop_14": 42.0,
+    "pop_60": 5.2,
+    "area": 246.0
+  },
+  {
+    "m49": 624,
+    "name": "Guinea-Bissau",
+    "pop": 1.91,
+    "pop_male": 0.94,
+    "pop_female": 0.97,
+    "pop_14": 41.3,
+    "pop_60": 5.0,
+    "area": 36.0
+  },
+  {
+    "m49": 328,
+    "name": "Guyana",
+    "pop": 0.78,
+    "pop_male": 0.4,
+    "pop_female": 0.39,
+    "pop_14": 28.6,
+    "pop_60": 8.9,
+    "area": 215.0
+  },
+  {
+    "m49": 332,
+    "name": "Haiti",
+    "pop": 11.11,
+    "pop_male": 5.49,
+    "pop_female": 5.62,
+    "pop_14": 32.6,
+    "pop_60": 7.4,
+    "area": 28.0
+  },
+  {
+    "m49": 336,
+    "name": "Holy See",
+    "pop": 0.0,
+    "area": 0.0
+  },
+  {
+    "m49": 340,
+    "name": "Honduras",
+    "pop": 9.42,
+    "pop_male": 4.7,
+    "pop_female": 4.72,
+    "pop_14": 31.0,
+    "pop_60": 7.1,
+    "area": 112.0
+  },
+  {
+    "m49": 348,
+    "name": "Hungary",
+    "pop": 9.69,
+    "pop_male": 4.61,
+    "pop_female": 5.08,
+    "pop_14": 14.3,
+    "pop_60": 26.3,
+    "area": 93.0
+  },
+  {
+    "m49": 352,
+    "name": "Iceland",
+    "pop": 0.34,
+    "pop_male": 0.17,
+    "pop_female": 0.17,
+    "pop_14": 20.0,
+    "pop_60": 20.6,
+    "area": 103.0
+  },
+  {
+    "m49": 356,
+    "name": "India",
+    "pop": 1354.05,
+    "pop_male": 701.55,
+    "pop_female": 652.5,
+    "pop_14": 27.4,
+    "pop_60": 9.6,
+    "area": 3287.0
+  },
+  {
+    "m49": 360,
+    "name": "Indonesia",
+    "pop": 266.8,
+    "pop_male": 134.27,
+    "pop_female": 132.52,
+    "pop_14": 27.0,
+    "pop_60": 8.9,
+    "area": 1911.0
+  },
+  {
+    "m49": 364,
+    "name": "Iran (Islamic Republic of)",
+    "pop": 82.01,
+    "pop_male": 41.23,
+    "pop_female": 40.78,
+    "pop_14": 23.7,
+    "pop_60": 9.1,
+    "area": 1629.0
+  },
+  {
+    "m49": 368,
+    "name": "Iraq",
+    "pop": 39.34,
+    "pop_male": 19.92,
+    "pop_female": 19.42,
+    "pop_14": 40.2,
+    "pop_60": 5.0,
+    "area": 435.0
+  },
+  {
+    "m49": 372,
+    "name": "Ireland",
+    "pop": 4.8,
+    "pop_male": 2.38,
+    "pop_female": 2.42,
+    "pop_14": 21.5,
+    "pop_60": 19.4,
+    "area": 70.0
+  },
+  {
+    "m49": 833,
+    "name": "Isle of Man",
+    "pop": 0.08,
+    "pop_14": 16.0,
+    "pop_60": 26.9,
+    "area": 1.0
+  },
+  {
+    "m49": 376,
+    "name": "Israel",
+    "pop": 8.45,
+    "pop_male": 4.2,
+    "pop_female": 4.25,
+    "pop_14": 27.8,
+    "pop_60": 16.3,
+    "area": 22.0
+  },
+  {
+    "m49": 380,
+    "name": "Italy",
+    "pop": 59.29,
+    "pop_male": 28.92,
+    "pop_female": 30.38,
+    "pop_14": 13.4,
+    "pop_60": 29.8,
+    "area": 302.0
+  },
+  {
+    "m49": 388,
+    "name": "Jamaica",
+    "pop": 2.9,
+    "pop_male": 1.44,
+    "pop_female": 1.46,
+    "pop_14": 22.6,
+    "pop_60": 13.9,
+    "area": 11.0
+  },
+  {
+    "m49": 392,
+    "name": "Japan",
+    "pop": 127.19,
+    "pop_male": 62.09,
+    "pop_female": 65.09,
+    "pop_14": 12.8,
+    "pop_60": 33.6,
+    "area": 378.0
+  },
+  {
+    "m49": 400,
+    "name": "Jordan",
+    "pop": 9.9,
+    "pop_male": 5.02,
+    "pop_female": 4.89,
+    "pop_14": 35.2,
+    "pop_60": 5.8,
+    "area": 89.0
+  },
+  {
+    "m49": 398,
+    "name": "Kazakhstan",
+    "pop": 18.4,
+    "pop_male": 8.91,
+    "pop_female": 9.49,
+    "pop_14": 28.3,
+    "pop_60": 11.3,
+    "area": 2725.0
+  },
+  {
+    "m49": 404,
+    "name": "Kenya",
+    "pop": 50.95,
+    "pop_male": 25.32,
+    "pop_female": 25.63,
+    "pop_14": 40.1,
+    "pop_60": 4.3,
+    "area": 592.0
+  },
+  {
+    "m49": 296,
+    "name": "Kiribati",
+    "pop": 0.12,
+    "pop_male": 0.06,
+    "pop_female": 0.06,
+    "pop_14": 35.3,
+    "pop_60": 6.5,
+    "area": 1.0
+  },
+  {
+    "m49": 414,
+    "name": "Kuwait",
+    "pop": 4.2,
+    "pop_male": 2.41,
+    "pop_female": 1.79,
+    "pop_14": 21.2,
+    "pop_60": 5.3,
+    "area": 18.0
+  },
+  {
+    "m49": 417,
+    "name": "Kyrgyzstan",
+    "pop": 6.13,
+    "pop_male": 3.04,
+    "pop_female": 3.09,
+    "pop_14": 32.1,
+    "pop_60": 7.8,
+    "area": 200.0
+  },
+  {
+    "m49": 418,
+    "name": "Lao People's Dem. Rep.",
+    "pop": 6.96,
+    "pop_male": 3.47,
+    "pop_female": 3.49,
+    "pop_14": 32.5,
+    "pop_60": 6.4,
+    "area": 237.0
+  },
+  {
+    "m49": 428,
+    "name": "Latvia",
+    "pop": 1.93,
+    "pop_male": 0.89,
+    "pop_female": 1.04,
+    "pop_14": 15.6,
+    "pop_60": 26.6,
+    "area": 65.0
+  },
+  {
+    "m49": 422,
+    "name": "Lebanon",
+    "pop": 6.09,
+    "pop_male": 3.06,
+    "pop_female": 3.04,
+    "pop_14": 22.6,
+    "pop_60": 12.3,
+    "area": 10.0
+  },
+  {
+    "m49": 426,
+    "name": "Lesotho",
+    "pop": 2.26,
+    "pop_male": 1.1,
+    "pop_female": 1.16,
+    "pop_14": 35.3,
+    "pop_60": 6.7,
+    "area": 30.0
+  },
+  {
+    "m49": 430,
+    "name": "Liberia",
+    "pop": 4.85,
+    "pop_male": 2.45,
+    "pop_female": 2.4,
+    "pop_14": 41.5,
+    "pop_60": 4.9,
+    "area": 111.0
+  },
+  {
+    "m49": 434,
+    "name": "Libya",
+    "pop": 6.47,
+    "pop_male": 3.26,
+    "pop_female": 3.21,
+    "pop_14": 27.9,
+    "pop_60": 6.8,
+    "area": 1676.0
+  },
+  {
+    "m49": 438,
+    "name": "Liechtenstein",
+    "pop": 0.04,
+    "pop_14": 14.9,
+    "pop_60": 22.7,
+    "area": 0.0
+  },
+  {
+    "m49": 440,
+    "name": "Lithuania",
+    "pop": 2.88,
+    "pop_male": 1.33,
+    "pop_female": 1.55,
+    "pop_14": 15.0,
+    "pop_60": 25.7,
+    "area": 65.0
+  },
+  {
+    "m49": 442,
+    "name": "Luxembourg",
+    "pop": 0.59,
+    "pop_male": 0.3,
+    "pop_female": 0.29,
+    "pop_14": 16.5,
+    "pop_60": 19.9,
+    "area": 3.0
+  },
+  {
+    "m49": 450,
+    "name": "Madagascar",
+    "pop": 26.26,
+    "pop_male": 13.1,
+    "pop_female": 13.16,
+    "pop_14": 40.7,
+    "pop_60": 4.9,
+    "area": 587.0
+  },
+  {
+    "m49": 454,
+    "name": "Malawi",
+    "pop": 19.16,
+    "pop_male": 9.5,
+    "pop_female": 9.67,
+    "pop_14": 43.7,
+    "pop_60": 4.2,
+    "area": 118.0
+  },
+  {
+    "m49": 458,
+    "name": "Malaysia",
+    "pop": 32.04,
+    "pop_male": 16.53,
+    "pop_female": 15.52,
+    "pop_14": 24.0,
+    "pop_60": 10.0,
+    "area": 330.0
+  },
+  {
+    "m49": 462,
+    "name": "Maldives",
+    "pop": 0.44,
+    "pop_male": 0.25,
+    "pop_female": 0.19,
+    "pop_14": 23.4,
+    "pop_60": 6.6,
+    "area": 0.0
+  },
+  {
+    "m49": 466,
+    "name": "Mali",
+    "pop": 19.11,
+    "pop_male": 9.57,
+    "pop_female": 9.54,
+    "pop_14": 47.5,
+    "pop_60": 3.9,
+    "area": 1240.0
+  },
+  {
+    "m49": 470,
+    "name": "Malta",
+    "pop": 0.43,
+    "pop_male": 0.22,
+    "pop_female": 0.22,
+    "pop_14": 14.5,
+    "pop_60": 26.6,
+    "area": 0.0
+  },
+  {
+    "m49": 584,
+    "name": "Marshall Islands",
+    "pop": 0.05,
+    "pop_14": 39.0,
+    "pop_60": 5.5,
+    "area": 0.0
+  },
+  {
+    "m49": 474,
+    "name": "Martinique",
+    "pop": 0.39,
+    "pop_male": 0.18,
+    "pop_female": 0.21,
+    "pop_14": 17.6,
+    "pop_60": 26.4,
+    "area": 1.0
+  },
+  {
+    "m49": 478,
+    "name": "Mauritania",
+    "pop": 4.54,
+    "pop_male": 2.29,
+    "pop_female": 2.25,
+    "pop_14": 39.7,
+    "pop_60": 5.1,
+    "area": 1031.0
+  },
+  {
+    "m49": 480,
+    "name": "Mauritius",
+    "pop": 1.27,
+    "pop_male": 0.63,
+    "pop_female": 0.64,
+    "pop_14": 17.9,
+    "pop_60": 17.2,
+    "area": 2.0
+  },
+  {
+    "m49": 175,
+    "name": "Mayotte",
+    "pop": 0.26,
+    "pop_male": 0.13,
+    "pop_female": 0.13,
+    "pop_14": 40.2,
+    "pop_60": 5.9
+  },
+  {
+    "m49": 484,
+    "name": "Mexico",
+    "pop": 130.76,
+    "pop_male": 65.11,
+    "pop_female": 65.65,
+    "pop_14": 26.3,
+    "pop_60": 10.4,
+    "area": 1964.0
+  },
+  {
+    "m49": 583,
+    "name": "Micronesia (Fed. States of)",
+    "pop": 0.11,
+    "pop_male": 0.05,
+    "pop_female": 0.05,
+    "pop_14": 32.7,
+    "pop_60": 8.2,
+    "area": 1.0
+  },
+  {
+    "m49": 492,
+    "name": "Monaco",
+    "pop": 0.04,
+    "pop_14": 12.7,
+    "pop_60": 31.2,
+    "area": 0.0
+  },
+  {
+    "m49": 496,
+    "name": "Mongolia",
+    "pop": 3.12,
+    "pop_male": 1.54,
+    "pop_female": 1.58,
+    "pop_14": 29.9,
+    "pop_60": 6.8,
+    "area": 1564.0
+  },
+  {
+    "m49": 499,
+    "name": "Montenegro",
+    "pop": 0.63,
+    "pop_male": 0.31,
+    "pop_female": 0.32,
+    "pop_14": 18.0,
+    "pop_60": 21.7,
+    "area": 14.0
+  },
+  {
+    "m49": 500,
+    "name": "Montserrat",
+    "pop": 0.01,
+    "pop_14": 19.7,
+    "pop_60": 19.6,
+    "area": 0.0
+  },
+  {
+    "m49": 504,
+    "name": "Morocco",
+    "pop": 36.19,
+    "pop_male": 17.93,
+    "pop_female": 18.26,
+    "pop_14": 27.2,
+    "pop_60": 11.0,
+    "area": 447.0
+  },
+  {
+    "m49": 508,
+    "name": "Mozambique",
+    "pop": 30.53,
+    "pop_male": 14.92,
+    "pop_female": 15.61,
+    "pop_14": 44.5,
+    "pop_60": 4.8,
+    "area": 799.0
+  },
+  {
+    "m49": 104,
+    "name": "Myanmar",
+    "pop": 53.86,
+    "pop_male": 26.3,
+    "pop_female": 27.55,
+    "pop_14": 26.3,
+    "pop_60": 9.7,
+    "area": 677.0
+  },
+  {
+    "m49": 516,
+    "name": "Namibia",
+    "pop": 2.59,
+    "pop_male": 1.26,
+    "pop_female": 1.33,
+    "pop_14": 36.5,
+    "pop_60": 5.6,
+    "area": 824.0
+  },
+  {
+    "m49": 520,
+    "name": "Nauru",
+    "pop": 0.01,
+    "pop_14": 39.5,
+    "pop_60": 4.0,
+    "area": 0.0
+  },
+  {
+    "m49": 524,
+    "name": "Nepal",
+    "pop": 29.62,
+    "pop_male": 14.39,
+    "pop_female": 15.23,
+    "pop_14": 30.2,
+    "pop_60": 8.8,
+    "area": 147.0
+  },
+  {
+    "m49": 528,
+    "name": "Netherlands",
+    "pop": 17.08,
+    "pop_male": 8.5,
+    "pop_female": 8.58,
+    "pop_14": 16.2,
+    "pop_60": 25.5,
+    "area": 42.0
+  },
+  {
+    "m49": 540,
+    "name": "New Caledonia",
+    "pop": 0.28,
+    "pop_male": 0.14,
+    "pop_female": 0.14,
+    "pop_14": 22.3,
+    "pop_60": 14.5,
+    "area": 19.0
+  },
+  {
+    "m49": 554,
+    "name": "New Zealand",
+    "pop": 4.75,
+    "pop_male": 2.34,
+    "pop_female": 2.41,
+    "pop_14": 19.8,
+    "pop_60": 21.3,
+    "area": 268.0
+  },
+  {
+    "m49": 558,
+    "name": "Nicaragua",
+    "pop": 6.28,
+    "pop_male": 3.1,
+    "pop_female": 3.19,
+    "pop_14": 28.6,
+    "pop_60": 8.7,
+    "area": 130.0
+  },
+  {
+    "m49": 562,
+    "name": "Niger",
+    "pop": 22.31,
+    "pop_male": 11.19,
+    "pop_female": 11.12,
+    "pop_14": 50.1,
+    "pop_60": 4.2,
+    "area": 1267.0
+  },
+  {
+    "m49": 566,
+    "name": "Nigeria",
+    "pop": 195.88,
+    "pop_male": 99.28,
+    "pop_female": 96.6,
+    "pop_14": 43.8,
+    "pop_60": 4.5,
+    "area": 924.0
+  },
+  {
+    "m49": 570,
+    "name": "Niue",
+    "pop": 0.0,
+    "pop_14": 22.8,
+    "pop_60": 20.1,
+    "area": 0.0
+  },
+  {
+    "m49": 580,
+    "name": "Northern Mariana Islands",
+    "pop": 0.06,
+    "pop_14": 23.5,
+    "pop_60": 10.0,
+    "area": 0.0
+  },
+  {
+    "m49": 578,
+    "name": "Norway",
+    "pop": 5.35,
+    "pop_male": 2.7,
+    "pop_female": 2.65,
+    "pop_14": 17.8,
+    "pop_60": 22.6,
+    "area": 386.0
+  },
+  {
+    "m49": 512,
+    "name": "Oman",
+    "pop": 4.83,
+    "pop_male": 3.2,
+    "pop_female": 1.63,
+    "pop_14": 21.6,
+    "pop_60": 4.1,
+    "area": 310.0
+  },
+  {
+    "m49": 158,
+    "name": "Other non-specified areas",
+    "pop": 23.69,
+    "pop_male": 11.81,
+    "pop_female": 11.88,
+    "pop_14": 13.2,
+    "pop_60": 21.0
+  },
+  {
+    "m49": 586,
+    "name": "Pakistan",
+    "pop": 200.81,
+    "pop_male": 103.15,
+    "pop_female": 97.67,
+    "pop_14": 34.7,
+    "pop_60": 6.8,
+    "area": 796.0
+  },
+  {
+    "m49": 585,
+    "name": "Palau",
+    "pop": 0.02,
+    "pop_14": 20.3,
+    "pop_60": 13.1,
+    "area": 0.0
+  },
+  {
+    "m49": 591,
+    "name": "Panama",
+    "pop": 4.16,
+    "pop_male": 2.09,
+    "pop_female": 2.08,
+    "pop_14": 27.1,
+    "pop_60": 11.7,
+    "area": 75.0
+  },
+  {
+    "m49": 598,
+    "name": "Papua New Guinea",
+    "pop": 8.42,
+    "pop_male": 4.28,
+    "pop_female": 4.14,
+    "pop_14": 35.6,
+    "pop_60": 6.2,
+    "area": 463.0
+  },
+  {
+    "m49": 600,
+    "name": "Paraguay",
+    "pop": 6.9,
+    "pop_male": 3.5,
+    "pop_female": 3.4,
+    "pop_14": 29.1,
+    "pop_60": 9.6,
+    "area": 407.0
+  },
+  {
+    "m49": 604,
+    "name": "Peru",
+    "pop": 32.55,
+    "pop_male": 16.26,
+    "pop_female": 16.29,
+    "pop_14": 27.1,
+    "pop_60": 10.7,
+    "area": 1285.0
+  },
+  {
+    "m49": 608,
+    "name": "Philippines",
+    "pop": 106.51,
+    "pop_male": 53.58,
+    "pop_female": 52.93,
+    "pop_14": 31.5,
+    "pop_60": 7.8,
+    "area": 300.0
+  },
+  {
+    "m49": 616,
+    "name": "Poland",
+    "pop": 38.1,
+    "pop_male": 18.4,
+    "pop_female": 19.7,
+    "pop_14": 14.9,
+    "pop_60": 24.6,
+    "area": 313.0
+  },
+  {
+    "m49": 620,
+    "name": "Portugal",
+    "pop": 10.29,
+    "pop_male": 4.87,
+    "pop_female": 5.42,
+    "pop_14": 13.4,
+    "pop_60": 28.3,
+    "area": 92.0
+  },
+  {
+    "m49": 630,
+    "name": "Puerto Rico",
+    "pop": 3.66,
+    "pop_male": 1.76,
+    "pop_female": 1.9,
+    "pop_14": 17.6,
+    "pop_60": 20.8,
+    "area": 9.0
+  },
+  {
+    "m49": 634,
+    "name": "Qatar",
+    "pop": 2.69,
+    "pop_male": 2.02,
+    "pop_female": 0.68,
+    "pop_14": 13.9,
+    "pop_60": 3.1,
+    "area": 12.0
+  },
+  {
+    "m49": 410,
+    "name": "Republic of Korea",
+    "pop": 51.16,
+    "pop_male": 25.6,
+    "pop_female": 25.57,
+    "pop_14": 13.4,
+    "pop_60": 21.1,
+    "area": 100.0
+  },
+  {
+    "m49": 498,
+    "name": "Republic of Moldova",
+    "pop": 4.04,
+    "pop_male": 1.94,
+    "pop_female": 2.1,
+    "pop_14": 15.8,
+    "pop_60": 18.0,
+    "area": 34.0
+  },
+  {
+    "m49": 638,
+    "name": "R\u00e9union",
+    "pop": 0.88,
+    "pop_male": 0.43,
+    "pop_female": 0.46,
+    "pop_14": 23.2,
+    "pop_60": 17.0,
+    "area": 3.0
+  },
+  {
+    "m49": 642,
+    "name": "Romania",
+    "pop": 19.58,
+    "pop_male": 9.49,
+    "pop_female": 10.1,
+    "pop_14": 15.2,
+    "pop_60": 25.3,
+    "area": 238.0
+  },
+  {
+    "m49": 643,
+    "name": "Russian Federation",
+    "pop": 143.96,
+    "pop_male": 66.91,
+    "pop_female": 77.06,
+    "pop_14": 17.8,
+    "pop_60": 21.5,
+    "area": 17098.0
+  },
+  {
+    "m49": 646,
+    "name": "Rwanda",
+    "pop": 12.5,
+    "pop_male": 6.13,
+    "pop_female": 6.37,
+    "pop_14": 39.8,
+    "pop_60": 5.0,
+    "area": 26.0
+  },
+  {
+    "m49": 654,
+    "name": "Saint Helena",
+    "pop": 0.0,
+    "area": 0.0
+  },
+  {
+    "m49": 659,
+    "name": "Saint Kitts and Nevis",
+    "pop": 0.06,
+    "pop_14": 28.0,
+    "pop_60": 9.9,
+    "area": 0.0
+  },
+  {
+    "m49": 662,
+    "name": "Saint Lucia",
+    "pop": 0.18,
+    "pop_male": 0.09,
+    "pop_female": 0.09,
+    "pop_14": 18.5,
+    "pop_60": 14.1,
+    "area": 1.0
+  },
+  {
+    "m49": 666,
+    "name": "Saint Pierre and Miquelon",
+    "pop": 0.01,
+    "pop_14": 19.1,
+    "pop_60": 17.8,
+    "area": 0.0
+  },
+  {
+    "m49": 670,
+    "name": "Saint Vincent & Grenadines",
+    "pop": 0.11,
+    "pop_male": 0.06,
+    "pop_female": 0.05,
+    "pop_14": 23.5,
+    "pop_60": 12.2,
+    "area": 0.0
+  },
+  {
+    "m49": 882,
+    "name": "Samoa",
+    "pop": 0.2,
+    "pop_male": 0.1,
+    "pop_female": 0.1,
+    "pop_14": 36.4,
+    "pop_60": 8.7,
+    "area": 3.0
+  },
+  {
+    "m49": 674,
+    "name": "San Marino",
+    "pop": 0.03,
+    "pop_14": 15.0,
+    "pop_60": 24.1,
+    "area": 0.0
+  },
+  {
+    "m49": 678,
+    "name": "Sao Tome and Principe",
+    "pop": 0.21,
+    "pop_male": 0.1,
+    "pop_female": 0.1,
+    "pop_14": 42.4,
+    "pop_60": 4.4,
+    "area": 1.0
+  },
+  {
+    "m49": 682,
+    "name": "Saudi Arabia",
+    "pop": 33.55,
+    "pop_male": 19.21,
+    "pop_female": 14.34,
+    "pop_14": 24.9,
+    "pop_60": 5.8,
+    "area": 2207.0
+  },
+  {
+    "m49": 686,
+    "name": "Senegal",
+    "pop": 16.29,
+    "pop_male": 8.01,
+    "pop_female": 8.29,
+    "pop_14": 42.7,
+    "pop_60": 4.7,
+    "area": 197.0
+  },
+  {
+    "m49": 688,
+    "name": "Serbia",
+    "pop": 8.76,
+    "pop_male": 4.28,
+    "pop_female": 4.48,
+    "pop_14": 16.3,
+    "pop_60": 24.8,
+    "area": 88.0
+  },
+  {
+    "m49": 690,
+    "name": "Seychelles",
+    "pop": 0.1,
+    "pop_male": 0.05,
+    "pop_female": 0.05,
+    "pop_14": 22.4,
+    "pop_60": 13.8,
+    "area": 0.0
+  },
+  {
+    "m49": 694,
+    "name": "Sierra Leone",
+    "pop": 7.72,
+    "pop_male": 3.82,
+    "pop_female": 3.9,
+    "pop_14": 41.7,
+    "pop_60": 4.2,
+    "area": 72.0
+  },
+  {
+    "m49": 702,
+    "name": "Singapore",
+    "pop": 5.79,
+    "pop_male": 2.86,
+    "pop_female": 2.93,
+    "pop_14": 14.7,
+    "pop_60": 20.4,
+    "area": 1.0
+  },
+  {
+    "m49": 534,
+    "name": "Sint Maarten (Dutch part)",
+    "pop": 0.04,
+    "pop_14": 21.0,
+    "pop_60": 10.4,
+    "area": 0.0
+  },
+  {
+    "m49": 703,
+    "name": "Slovakia",
+    "pop": 5.45,
+    "pop_male": 2.65,
+    "pop_female": 2.8,
+    "pop_14": 15.5,
+    "pop_60": 22.3,
+    "area": 49.0
+  },
+  {
+    "m49": 705,
+    "name": "Slovenia",
+    "pop": 2.08,
+    "pop_male": 1.03,
+    "pop_female": 1.05,
+    "pop_14": 15.1,
+    "pop_60": 26.8,
+    "area": 20.0
+  },
+  {
+    "m49": 90,
+    "name": "Solomon Islands",
+    "pop": 0.62,
+    "pop_male": 0.32,
+    "pop_female": 0.31,
+    "pop_14": 38.5,
+    "pop_60": 5.5,
+    "area": 29.0
+  },
+  {
+    "m49": 706,
+    "name": "Somalia",
+    "pop": 15.18,
+    "pop_male": 7.56,
+    "pop_female": 7.62,
+    "pop_14": 46.3,
+    "pop_60": 4.4,
+    "area": 638.0
+  },
+  {
+    "m49": 710,
+    "name": "South Africa",
+    "pop": 57.4,
+    "pop_male": 28.16,
+    "pop_female": 29.24,
+    "pop_14": 28.8,
+    "pop_60": 8.5,
+    "area": 1221.0
+  },
+  {
+    "m49": 728,
+    "name": "South Sudan",
+    "pop": 12.92,
+    "pop_male": 6.47,
+    "pop_female": 6.44,
+    "pop_14": 41.5,
+    "pop_60": 5.1,
+    "area": 659.0
+  },
+  {
+    "m49": 724,
+    "name": "Spain",
+    "pop": 46.4,
+    "pop_male": 22.76,
+    "pop_female": 23.64,
+    "pop_14": 14.6,
+    "pop_60": 25.8,
+    "area": 506.0
+  },
+  {
+    "m49": 144,
+    "name": "Sri Lanka",
+    "pop": 20.95,
+    "pop_male": 10.06,
+    "pop_female": 10.89,
+    "pop_14": 23.7,
+    "pop_60": 15.4,
+    "area": 66.0
+  },
+  {
+    "m49": 275,
+    "name": "State of Palestine",
+    "pop": 5.05,
+    "pop_male": 2.56,
+    "pop_female": 2.49,
+    "pop_14": 39.3,
+    "pop_60": 4.7,
+    "area": 6.0
+  },
+  {
+    "m49": 729,
+    "name": "Sudan",
+    "pop": 41.51,
+    "pop_male": 20.75,
+    "pop_female": 20.76,
+    "pop_14": 40.5,
+    "pop_60": 5.6
+  },
+  {
+    "m49": 740,
+    "name": "Suriname",
+    "pop": 0.57,
+    "pop_male": 0.29,
+    "pop_female": 0.28,
+    "pop_14": 26.2,
+    "pop_60": 10.6,
+    "area": 164.0
+  },
+  {
+    "m49": 748,
+    "name": "Eswatini",
+    "pop": 1.39,
+    "pop_male": 0.67,
+    "pop_female": 0.72,
+    "pop_14": 37.0,
+    "pop_60": 4.9,
+    "area": 17.0
+  },
+  {
+    "m49": 752,
+    "name": "Sweden",
+    "pop": 9.98,
+    "pop_male": 5.0,
+    "pop_female": 4.98,
+    "pop_14": 17.7,
+    "pop_60": 25.6,
+    "area": 439.0
+  },
+  {
+    "m49": 756,
+    "name": "Switzerland",
+    "pop": 8.54,
+    "pop_male": 4.24,
+    "pop_female": 4.31,
+    "pop_14": 14.9,
+    "pop_60": 24.5,
+    "area": 41.0
+  },
+  {
+    "m49": 760,
+    "name": "Syrian Arab Republic",
+    "pop": 18.28,
+    "pop_male": 9.23,
+    "pop_female": 9.06,
+    "pop_14": 35.7,
+    "pop_60": 7.1,
+    "area": 185.0
+  },
+  {
+    "m49": 762,
+    "name": "Tajikistan",
+    "pop": 9.11,
+    "pop_male": 4.57,
+    "pop_female": 4.54,
+    "pop_14": 35.3,
+    "pop_60": 6.0,
+    "area": 143.0
+  },
+  {
+    "m49": 764,
+    "name": "Thailand",
+    "pop": 69.18,
+    "pop_male": 33.71,
+    "pop_female": 35.47,
+    "pop_14": 17.0,
+    "pop_60": 17.6,
+    "area": 513.0
+  },
+  {
+    "m49": 807,
+    "name": "TFYR of Macedonia",
+    "pop": 2.09,
+    "pop_male": 1.04,
+    "pop_female": 1.04,
+    "pop_14": 16.6,
+    "pop_60": 19.9,
+    "area": 26.0
+  },
+  {
+    "m49": 626,
+    "name": "Timor-Leste",
+    "pop": 1.32,
+    "pop_male": 0.67,
+    "pop_female": 0.65,
+    "pop_14": 43.5,
+    "pop_60": 5.5,
+    "area": 15.0
+  },
+  {
+    "m49": 768,
+    "name": "Togo",
+    "pop": 7.99,
+    "pop_male": 3.98,
+    "pop_female": 4.01,
+    "pop_14": 41.3,
+    "pop_60": 4.6,
+    "area": 57.0
+  },
+  {
+    "m49": 772,
+    "name": "Tokelau",
+    "pop": 0.0,
+    "pop_14": 28.3,
+    "pop_60": 12.2,
+    "area": 0.0
+  },
+  {
+    "m49": 776,
+    "name": "Tonga",
+    "pop": 0.11,
+    "pop_male": 0.05,
+    "pop_female": 0.05,
+    "pop_14": 35.4,
+    "pop_60": 8.7,
+    "area": 1.0
+  },
+  {
+    "m49": 780,
+    "name": "Trinidad and Tobago",
+    "pop": 1.37,
+    "pop_male": 0.68,
+    "pop_female": 0.7,
+    "pop_14": 20.5,
+    "pop_60": 15.5,
+    "area": 5.0
+  },
+  {
+    "m49": 788,
+    "name": "Tunisia",
+    "pop": 11.66,
+    "pop_male": 5.76,
+    "pop_female": 5.9,
+    "pop_14": 24.0,
+    "pop_60": 12.6,
+    "area": 164.0
+  },
+  {
+    "m49": 792,
+    "name": "Turkey",
+    "pop": 81.92,
+    "pop_male": 40.37,
+    "pop_female": 41.55,
+    "pop_14": 24.6,
+    "pop_60": 12.3,
+    "area": 784.0
+  },
+  {
+    "m49": 795,
+    "name": "Turkmenistan",
+    "pop": 5.85,
+    "pop_male": 2.88,
+    "pop_female": 2.97,
+    "pop_14": 30.8,
+    "pop_60": 7.6,
+    "area": 488.0
+  },
+  {
+    "m49": 796,
+    "name": "Turks and Caicos Islands",
+    "pop": 0.04,
+    "pop_14": 19.2,
+    "pop_60": 7.6,
+    "area": 1.0
+  },
+  {
+    "m49": 798,
+    "name": "Tuvalu",
+    "pop": 0.01,
+    "pop_14": 31.1,
+    "pop_60": 9.9,
+    "area": 0.0
+  },
+  {
+    "m49": 800,
+    "name": "Uganda",
+    "pop": 44.27,
+    "pop_male": 22.02,
+    "pop_female": 22.25,
+    "pop_14": 47.4,
+    "pop_60": 3.3,
+    "area": 242.0
+  },
+  {
+    "m49": 804,
+    "name": "Ukraine",
+    "pop": 44.01,
+    "pop_male": 20.35,
+    "pop_female": 23.66,
+    "pop_14": 15.8,
+    "pop_60": 23.5,
+    "area": 604.0
+  },
+  {
+    "m49": 784,
+    "name": "United Arab Emirates",
+    "pop": 9.54,
+    "pop_male": 6.88,
+    "pop_female": 2.67,
+    "pop_14": 13.9,
+    "pop_60": 2.6,
+    "area": 84.0
+  },
+  {
+    "m49": 826,
+    "name": "United Kingdom",
+    "pop": 66.57,
+    "pop_male": 32.87,
+    "pop_female": 33.71,
+    "pop_14": 17.8,
+    "pop_60": 24.2,
+    "area": 242.0
+  },
+  {
+    "m49": 834,
+    "name": "United Rep. of Tanzania",
+    "pop": 59.09,
+    "pop_male": 29.23,
+    "pop_female": 29.86,
+    "pop_14": 44.7,
+    "pop_60": 4.7,
+    "area": 947.0
+  },
+  {
+    "m49": 840,
+    "name": "United States of America",
+    "pop": 326.77,
+    "pop_male": 161.77,
+    "pop_female": 165.0,
+    "pop_14": 18.8,
+    "pop_60": 22.0,
+    "area": 9834.0
+  },
+  {
+    "m49": 850,
+    "name": "United States Virgin Islands",
+    "pop": 0.1,
+    "pop_male": 0.05,
+    "pop_female": 0.05,
+    "pop_14": 20.0,
+    "pop_60": 26.0,
+    "area": 0.0
+  },
+  {
+    "m49": 858,
+    "name": "Uruguay",
+    "pop": 3.47,
+    "pop_male": 1.68,
+    "pop_female": 1.79,
+    "pop_14": 20.9,
+    "pop_60": 19.7,
+    "area": 174.0
+  },
+  {
+    "m49": 860,
+    "name": "Uzbekistan",
+    "pop": 32.37,
+    "pop_male": 16.14,
+    "pop_female": 16.23,
+    "pop_14": 28.0,
+    "pop_60": 7.9,
+    "area": 449.0
+  },
+  {
+    "m49": 548,
+    "name": "Vanuatu",
+    "pop": 0.28,
+    "pop_male": 0.14,
+    "pop_female": 0.14,
+    "pop_14": 35.8,
+    "pop_60": 6.8,
+    "area": 12.0
+  },
+  {
+    "m49": 862,
+    "name": "Venezuela (Boliv. Rep. of)",
+    "pop": 32.38,
+    "pop_male": 16.1,
+    "pop_female": 16.28,
+    "pop_14": 27.3,
+    "pop_60": 10.2,
+    "area": 912.0
+  },
+  {
+    "m49": 704,
+    "name": "Viet Nam",
+    "pop": 96.49,
+    "pop_male": 47.76,
+    "pop_female": 48.74,
+    "pop_14": 23.0,
+    "pop_60": 11.6,
+    "area": 331.0
+  },
+  {
+    "m49": 876,
+    "name": "Wallis and Futuna Islands",
+    "pop": 0.01,
+    "area": 0.0,
+    "pop_14": 25.5,
+    "pop_60": 15.4
+  },
+  {
+    "m49": 732,
+    "name": "Western Sahara",
+    "pop": 0.57,
+    "pop_male": 0.3,
+    "pop_female": 0.27,
+    "pop_14": 27.7,
+    "pop_60": 5.7,
+    "area": 266.0
+  },
+  {
+    "m49": 887,
+    "name": "Yemen",
+    "pop": 28.92,
+    "pop_male": 14.61,
+    "pop_female": 14.31,
+    "pop_14": 39.6,
+    "pop_60": 4.6,
+    "area": 528.0
+  },
+  {
+    "m49": 894,
+    "name": "Zambia",
+    "pop": 17.61,
+    "pop_male": 8.74,
+    "pop_female": 8.87,
+    "pop_14": 44.5,
+    "pop_60": 3.7,
+    "area": 753.0
+  },
+  {
+    "m49": 716,
+    "name": "Zimbabwe",
+    "pop": 16.91,
+    "pop_male": 8.24,
+    "pop_female": 8.67,
+    "pop_14": 41.0,
+    "pop_60": 4.2,
+    "area": 391.0
+  }
+]
