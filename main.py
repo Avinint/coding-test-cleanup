@@ -2,20 +2,19 @@ import json
 
 def get_countries():
     with open('data_countries.json') as json_file:
-        data = json.load(json_file)
-    return [country for country in data]
+        return json.load(json_file)
 
 def get_areas():
     with open('data_areas.json') as json_file:
-        data = json.load(json_file)
-    return [area for area in data]
+        return json.load(json_file)
 
 def get_country_by_code(code):
     match = [country for country in countries if country[0] == code]
     return match and match[0] or None
 
-def get_country_by_name(name):
-    match = [country for country in countries if country[3] == name]
+def get_country_by_name(full_name):
+    name = " ".join([name.strip().lower().capitalize() for name in full_name.split()])
+    match = [country for country in country_list if country[3] == name]
     return match and match[0] or None
 
 def get_country():
@@ -25,17 +24,17 @@ def get_country():
     return get_country_by_name(user_input)
 
 def get_area_by_code(code):
-    match = [area for area in areas if area[0] == code]
+    match = [area for area in area_list if area[0] == code]
     return match and match[0] or None
 
-res_country = None
-countries = get_countries()
-areas = get_areas()
+input_country = None
+country_list = get_countries()
+area_list = get_areas()
 
-while res_country is None:
-    res_country = get_country()
-    if res_country:
-        country_code, country_area, iso, country_name = res_country
+while input_country is None:
+    input_country = get_country()
+    if input_country:
+        country_code, country_area, iso, country_name = input_country
     else:
         print("Country not in database")
 
@@ -47,5 +46,3 @@ while parent_area:
     areas.append(area_name)
 
 print (" < ".join(areas[::-1]) )
-
-
